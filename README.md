@@ -8,9 +8,13 @@ This project will help us build your skills in data analysis, data visualization
 # Dashboard:
 # Insights:
     1. Movies in English received the most votes.
+    
     2. The two top highest-rated movies are in Arabic and Telugu.
+    
     3. These movies have an average runtime of 87.62 minutes.
+    
     4. The top three genres that audiences enjoy watching are drama, action and comedy.
+    
     5. The most popular movies are Korean films.
 # Recommendations:
    1. The focus should be on screening English movies.
