@@ -1,9 +1,9 @@
 # Movie-Analysis
 
-# Problem Statement
+# Objective:
 
-Explore different aspects of the movie data such as popularity, rating, genre, and revenue, and create interactive reports and visualizations to showcase your findings.
-This project will help us build your skills in data analysis, data visualization, and report creation and Prepare you for more advanced data analysis projects in the future.
+Explore different aspects of the movie data such as popularity, rating, genre, and revenue, and create interactive reports and visualizations to showcase findings.
+
 
 # Dashboard:
 ![image](https://github.com/sadafchandnisidd/Movie-Analysis/assets/121816441/e30e8b40-4f6b-4d14-8f3f-8e0f2ab20c8b)
